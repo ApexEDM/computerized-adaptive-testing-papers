@@ -1,67 +1,29 @@
 # computerized-adaptive-testing-papers
-A Survey of Deep Active Learning. ACM Comput. Surv. 54(9): 180:1-180:40 (2022)
+Aritra Ghosh, Andrew S. Lan:BOBCAT: Bilevel Optimization-Based Computerized Adaptive Testing. IJCAI 2021: 2410-2417：https://arxiv.org/pdf/2108.07386.pdf
+![image](https://user-images.githubusercontent.com/94896804/147089603-d18fab91-b80c-44ad-a192-b9f9f4da2929.png)
 
-A Comparative Survey: Benchmarking for Pool-based Active Learning. IJCAI 2021: 4679-4686：https://www.ijcai.org/proceedings/2021/0634.pdf
+Quality meets Diversity: A Model-Agnostic Framework for Computerized Adaptive Testing：https://arxiv.org/pdf/2101.05986.pdf
+![image](https://user-images.githubusercontent.com/94896804/147089691-046f879f-8003-4ae0-a0d1-c7937c592aa1.png)
 
-Improving Model Robustness by Adaptively Correcting Perturbation Levels with Active Queries. AAAI 2021: 9161-9169
+[Nurakhmetov, 2019] Darkhan Nurakhmetov. Reinforcement
+learning applied to adaptive classification testing. In Theoretical
+and Practical Advances in Computer-based Educational Measurement, pages 325–336. Springer, Cham, 2019.
+![image](https://user-images.githubusercontent.com/94896804/147089816-7c86f6eb-bf3d-4e36-9abc-cb4e8182d7d6.png)
 
-Nearest Neighbor Classifier Embedded Network for Active Learning. AAAI 2021: 10041-10048
+[Li et al., 2020] Xiao Li, Hanchen Xu, Jinming Zhang, and Huahua Chang. Deep reinforcement learning for adaptive learning
+systems. arXiv preprint arXiv:2004.08410, 2020.：https://arxiv.org/pdf/2004.08410.pdf
+![image](https://user-images.githubusercontent.com/94896804/147089843-2aaf9be2-3df1-49f8-9167-a837a632c048.png)
 
-Uncertainty Estimation Using a Single Deep Deterministic Neural Network. ICML 2020: 9690-9700
+Comprehensive Empirical Analysis of Stop Criteria in Computerized Adaptive Testing. CSEDU (1) 2021: 48-59
 
-Coresets via Bilevel Optimization for Continual Learning and Streaming. NeurIPS 2020
+Multi-objective optimization of item selection in computerized adaptive testing. GECCO 2021
 
-Active Learning for Distributionally Robust Level-Set Estimation. ICML 2021: 4574-4584
+Cognitive Diagnostic Computerized Adaptive Testing for Polytomously Scored Items. J. Classif. 37(3): 709-729 (2020)
 
-Message Passing Adaptive Resonance Theory for Online Active Semi-supervised Learning. ICML 2021: 5519-5529
+ALICAT: a customized approach to item selection process in computerized adaptive testing. J. Braz. Comput. Soc. 26(1): 4 (2020)
 
-Active Learning of Continuous-time Bayesian Networks through Interventions. ICML 2021: 6692-6701
+Towards a Tailored Hybrid Recommendation-based System for Computerized Adaptive Testing through Clustering and IRT. CSEDU (1) 2020
 
-Fast active learning for pure exploration in reinforcement learning. ICML 2021: 7599-7608
-
-Ready Policy One: World Building Through Active Learning. ICML 2020: 591-601
-
-Adaptive Region-Based Active Learning. ICML 2020: 2144-2153
-
-Active Learning on Attributed Graphs via Graph Cognizant Logistic Regression and Preemptive Query Generation. ICML 2020: 8041-8050
-
-Agreement-Discrepancy-Selection: Active Learning with Progressive Distribution Alignment. AAAI 2021: 7466-7473
-
-Unsupervised Active Learning via Subspace Learning. AAAI 2021: 8332-8339            
-
-An Information-Theoretic Framework for Unifying Active Learning Problems. AAAI 2021: 9126-9134        
-
-Embodied Visual Active Learning for Semantic Segmentation. AAAI 2021: 2373-2383
-
-Dialog Policy Learning for Joint Clarification and Active Learning Queries. AAAI 2021: 13604-13612
-
-Semi-Supervised Learning via Triplet Network Based Active Learning (Student Abstract). AAAI 2021: 15903-15904
-
-Nearest Neighbor Classifier Embedded Network for Active Learning. AAAI 2021: 10041-10048
-
-TAILOR: Teaching with Active and Incremental Learning for Object Registration. AAAI 2021: 16120-16123
-
-MTAAL: Multi-Task Adversarial Active Learning for Medical Named Entity Recognition and Normalization. AAAI 2021: 14586-14593
-
-Asynchronous Active Learning with Distributed Label Querying. IJCAI 2021: 2570-2576
-
-Dual Active Learning for Both Model and Data Selection. IJCAI 2021: 3052-3058
-
-Batch Decorrelation for Active Metric Learning. IJCAI 2020: 2255-2261
-
-On Deep Unsupervised Active Learning. IJCAI 2020: 2626-2632
-
-Exemplar Guided Active Learning. NeurIPS 2020
-
-Graph Policy Network for Transferable Active Learning on Graphs. NeurIPS 2020    
-
-Probabilistic Active Meta-Learning. NeurIPS 2020
-
-Finding the Homology of Decision Boundaries with Active Learning. NeurIPS 2020
-
-Efficient active learning of sparse halfspaces with arbitrary bounded noise. NeurIPS 2020
-
-Active Learning Stopping Strategies for Technology-Assisted Sensitivity Review. SIGIR 2020: 2053-2056
-
-A Mathematical Analysis of Learning Loss for Active Learning in Regression. CVPR Workshops 2021: 3320-3328
+Feasibility of computerized adaptive testing evaluated by Monte-Carlo and post-hoc simulations. FedCSIS 2020
+![image](https://user-images.githubusercontent.com/94896804/147089746-a3ac3b03-9621-4cf3-8fc4-dc02c313112e.png)
 
